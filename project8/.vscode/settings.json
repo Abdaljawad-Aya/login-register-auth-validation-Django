@@ -1,0 +1,16 @@
+{
+  "html.format.extraLiners": "",
+  "html.format.indentHandlebars": true,
+  "html.format.templating": true,
+  "html.format.unformatted": "",
+  "[django-html]": {
+  "editor.autoIndent": "advanced",
+    "editor.quickSuggestions": {
+      "other": true,
+      "comments": true,
+      "strings": true
+    }
+  },
+  "vetur.format.defaultFormatter.html": "js-beautify-html",
+  // "html.format.enable": true,
+}
